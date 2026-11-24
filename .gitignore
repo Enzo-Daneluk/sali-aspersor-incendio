@@ -1,0 +1,12 @@
+# Editores e sistema
+.vscode/
+.idea/
+.vs/
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+.pio/
+*.elf
+*.bin
+*.hex
